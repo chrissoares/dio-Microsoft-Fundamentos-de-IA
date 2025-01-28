@@ -1,0 +1,15 @@
+
+{
+    "apim-request-id": "3e94d95a-fbc6-4854-a585-aff54fd77dc8",
+    "content-length": "161",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a group of men making silly faces",
+      "confidence": 0.8807947039604187
+    },
+    "metadata": {
+      "width": 1200,
+      "height": 900
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "9d97a7d2-36cc-4168-84fb-d8dd0fb4a6cc",
+    "content-length": "159",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a group of women on motorcycles",
+      "confidence": 0.8661820292472839
+    },
+    "metadata": {
+      "width": 1200,
+      "height": 630
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "296c5e08-3b04-4a38-bfb4-b84f3e964308",
+    "content-length": "155",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a collage of people on stage",
+      "confidence": 0.7793235182762146
+    },
+    "metadata": {
+      "width": 897,
+      "height": 960
+    }
+  }

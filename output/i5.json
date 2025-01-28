@@ -1,0 +1,15 @@
+
+{
+    "apim-request-id": "f364e7aa-02d0-42d7-b462-ddf7458e0d84",
+    "content-length": "157",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a cat lying on a person's legs",
+      "confidence": 0.8498808145523071
+    },
+    "metadata": {
+      "width": 540,
+      "height": 542
+    }
+  }
