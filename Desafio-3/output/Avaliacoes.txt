@@ -1,0 +1,180 @@
+{
+    "documents": [
+        {
+            "id": "id__1044",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.54,
+                "neutral": 0.04,
+                "negative": 0.42
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 36,
+                    "text": "Avaliação Odonto Digital  EXCELENTE! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.17,
+                        "neutral": 0,
+                        "negative": 0.83
+                    },
+                    "offset": 36,
+                    "length": 47,
+                    "text": "Vou há anos e nunca tive uma experiência ruim. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 66,
+                            "length": 11,
+                            "text": "experiência",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 78,
+                            "length": 4,
+                            "text": "ruim",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 83,
+                    "length": 92,
+                    "text": "Tranquilamente a melhor do Barreiro, tanto para atendimento particular quanto por convênio. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 111,
+                            "length": 8,
+                            "text": "Barreiro",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 101,
+                            "length": 6,
+                            "text": "melhor",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.15,
+                        "negative": 0.85
+                    },
+                    "offset": 175,
+                    "length": 92,
+                    "text": "Às vezes, até compensa pagar particular lá do que se estressar com outras opções da região.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.46,
+                        "neutral": 0.53,
+                        "negative": 0.01
+                    },
+                    "offset": 267,
+                    "length": 73,
+                    "text": "Avaliação 1001 Festas  Vários caixas de pagamento fechados, fila grandes....",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.69,
+                        "negative": 0.23
+                    },
+                    "offset": 340,
+                    "length": 271,
+                    "text": "pedi para a funcionária do setor de kits de festa verificar se tinha o painel do dragon boll , ela me disse que o que tinha estava ali e se não tava é pq não tinha , além de me dizer para mandar fazer na gráfica que fica ali próximo da loja perto do posto de gasolina... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 611,
+                    "length": 59,
+                    "text": "há e o sac de vcs não tem opção de deixar mensagem sobre...",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.79,
+                        "negative": 0.01
+                    },
+                    "offset": 670,
+                    "length": 80,
+                    "text": "mesmo assim comprei o que tinha na loja sobre o tema pois meu filho quis muito  ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2024-03-01"
+}
