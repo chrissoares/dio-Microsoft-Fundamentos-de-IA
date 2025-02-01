@@ -178,7 +178,6 @@ Selecione:
 - Projeções de imagem
 - Documentos
 - Páginas
-- 
 - Frases-chave
 - Entidades
 - Detalhes da imagem
