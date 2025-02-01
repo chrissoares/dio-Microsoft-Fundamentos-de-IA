@@ -5,4 +5,4 @@ Dentro deste arquivo estarão o link para todos os desafios do curso **Microsoft
 
 2º Desafio: [Reconhecimento Facial e transformação de imagens em Dados no Azure ML](https://github.com/chrissoares/dio-Microsoft-Fundamentos-de-IA/blob/main/Desafio-2/Reconhecimento-Facial-e-transformação-de-imagens-em-Dados-no-Azure-ML.md)
 
-3º Desafio: [Análise de Sentimentos com Language Studio no Azure AI](https://github.com/chrissoares/dio-Microsoft-Fundamentos-de-IA/blob/main/Desafio-3/Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI.md)
+3º Desafio: [Análise de Sentimentos com Language Studio no Azure AI](https://github.com/chrissoares/dio-Microsoft-Fundamentos-de-IA/blob/main/Desafio-3/Análise-de-Sentimentos-com-Language-Studio-no-Azure-AI.md)
