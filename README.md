@@ -9,5 +9,5 @@ Dentro deste arquivo estarão o link para todos os desafios do curso **Microsoft
 
 4º Desafio: [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](https://github.com/chrissoares/dio-Microsoft-Fundamentos-de-IA/blob/main/Desafio-4/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexacao-e-consulta-de-Dados.md)
 
-5º Desafio: [Explorando os Recursos de IA Generativa com Copilot e OpenAI / Mas o enunciado do Desafio foi uma cópia do segundo desafio](https://github.com/chrissoares/dio-Microsoft-Fundamentos-de-IA/blob/main/Desafio-5/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexacao-e-consulta-de-Dados.md)
+5º Desafio: [Explorando os Recursos de IA Generativa com Copilot e OpenAI / Mas o enunciado do Desafio foi uma cópia do segundo desafio](https://github.com/chrissoares/dio-Microsoft-Fundamentos-de-IA/blob/main/Desafio-5/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI.md)
 
